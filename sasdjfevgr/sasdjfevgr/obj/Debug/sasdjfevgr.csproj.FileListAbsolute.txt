@@ -1,0 +1,8 @@
+D:\Users\2022103030050\source\repos\sasdjfevgr\sasdjfevgr\bin\Debug\sasdjfevgr.exe.config
+D:\Users\2022103030050\source\repos\sasdjfevgr\sasdjfevgr\bin\Debug\sasdjfevgr.exe
+D:\Users\2022103030050\source\repos\sasdjfevgr\sasdjfevgr\bin\Debug\sasdjfevgr.pdb
+D:\Users\2022103030050\source\repos\sasdjfevgr\sasdjfevgr\obj\Debug\sasdjfevgr.csproj.AssemblyReference.cache
+D:\Users\2022103030050\source\repos\sasdjfevgr\sasdjfevgr\obj\Debug\sasdjfevgr.csproj.SuggestedBindingRedirects.cache
+D:\Users\2022103030050\source\repos\sasdjfevgr\sasdjfevgr\obj\Debug\sasdjfevgr.csproj.CoreCompileInputs.cache
+D:\Users\2022103030050\source\repos\sasdjfevgr\sasdjfevgr\obj\Debug\sasdjfevgr.exe
+D:\Users\2022103030050\source\repos\sasdjfevgr\sasdjfevgr\obj\Debug\sasdjfevgr.pdb

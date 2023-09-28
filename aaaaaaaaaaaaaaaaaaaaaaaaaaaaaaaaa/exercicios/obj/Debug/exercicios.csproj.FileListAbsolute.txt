@@ -1,0 +1,8 @@
+D:\Users\2022103030050\source\repos\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\exercicios\bin\Debug\exercicios.exe.config
+D:\Users\2022103030050\source\repos\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\exercicios\bin\Debug\exercicios.exe
+D:\Users\2022103030050\source\repos\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\exercicios\bin\Debug\exercicios.pdb
+D:\Users\2022103030050\source\repos\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\exercicios\obj\Debug\exercicios.csproj.AssemblyReference.cache
+D:\Users\2022103030050\source\repos\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\exercicios\obj\Debug\exercicios.csproj.SuggestedBindingRedirects.cache
+D:\Users\2022103030050\source\repos\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\exercicios\obj\Debug\exercicios.csproj.CoreCompileInputs.cache
+D:\Users\2022103030050\source\repos\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\exercicios\obj\Debug\exercicios.exe
+D:\Users\2022103030050\source\repos\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\exercicios\obj\Debug\exercicios.pdb
